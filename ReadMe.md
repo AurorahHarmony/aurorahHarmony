@@ -13,11 +13,7 @@ Hi there! I'm Aurorah. I'm a full-stack web and software developer from New Zeal
 <hr>
 
 <p align="center" style="margin-top: 2rem">
-    <picture>
-        <source
-        srcset="https://github-readme-stats.vercel.app/api?username=aurorahHarmony&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff"
-        media="(prefers-color-scheme: dark), (prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=aurorahHarmony&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
-    </picture>
+    <a href="https://github-readme-stats.vercel.app/api?username=aurorahHarmony&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=aurorahHarmony&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
+    </a>
 </p>
