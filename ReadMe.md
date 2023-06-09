@@ -13,7 +13,5 @@ Hi there! I'm Aurorah. I'm a full-stack web and software developer from New Zeal
 <hr>
 
 <p align="center" style="margin-top: 2rem">
-
-[![Aury's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aurorahHarmony&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github-readme-stats.vercel.app/api?username=aurorahHarmony&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
-
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aurorahHarmony&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
 </p>
